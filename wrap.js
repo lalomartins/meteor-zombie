@@ -1,0 +1,1 @@
+Zombie = Npm.require('zombie');
