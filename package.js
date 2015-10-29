@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'zombie': '4.0.8'
+  'zombie': '3.1.1'
 });
 
 Package.onUse(function(api) {
